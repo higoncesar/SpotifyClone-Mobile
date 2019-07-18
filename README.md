@@ -8,9 +8,9 @@ React Native, ReactJS, Styled Components, Redux, Redux Saga, React Navigation, R
 
 ## LAYOUT E DEMONSTRAÇÃO
 
-![Home](/assets/home.jpg)
+![Home](/assets/home.png)
 
-![Playlist](/assets/playlist.jpg)
+![Playlist](/assets/playlist.png)
 
 ## INSTALAÇÃO
 
